@@ -1,0 +1,24 @@
+Film,Year,Years lapse,Bond actor,Bond actor appearance,Villians Dispatched,Others' Dispatched,Total Dispatched,Adjusted box office,Actual box office,Adjusted budget,Actual budget,Director,Rotten Tomatoes critic score,Rotten Tomatoes audience score,Golden Globe nominations,Golden Globe wins,Academy Award nominations,Academy Award wins,Number of Bond drinks,Bond girls,Bond car make,Runtime minutes,Month released,Rating,"Bond, James Bond said"
+Dr. No,1962,,Sean Connery,1,4,8,12,448.8,59.5,7,1.1,Terence Young,96%,82%,1,1,0,0,11.5,3,Sunbeam,110,October,PG,1
+From Russia With Love,1963,1,Sean Connery,2,11,16,27,543.8,78.9,12.6,2,Terence Young,96%,83%,1,0,0,0,16,3,Bentley,115,April,PG,0
+Goldfinger,1964,1,Sean Connery,3,9,68,77,820.4,124.9,18.6,3,Guy Hamilton,96%,89%,0,0,1,1,12,5,Aston Martin,110,September,PG,1
+Thunderball,1965,1,Sean Connery,4,20,90,110,848.1,141.2,41.9,6.8,Terence Young,85%,73%,0,0,1,1,14.5,5,Lincoln,130,December,PG,0
+You Only Live Twice,1967,2,Sean Connery,5,21,175,196,514.2,101,59.9,10.3,Lewis Gilbert,73%,69%,0,0,0,0,9.5,4,Toyota,117,June,PG,0
+On Her Majesty's Secret Service,1969,2,George Lazenby,1,5,37,42,291.5,64.6,37.3,7,Peter R. Hunt,82%,64%,1,0,0,0,9.5,3,Aston Martin,142,December,PG,2
+Diamonds Are Forever,1971,2,Sean Connery,6,7,42,49,442.5,116,34.7,7.2,Guy Hamilton,66%,59%,0,0,1,0,6,5,Ford,120,December,PG,1
+Live and Let Die,1973,2,Roger Moore,1,8,5,13,460.3,126.4,30.8,7,Guy Hamilton,66%,65%,0,0,1,0,15.5,3,Chevrolet,121,June,PG,1
+The Man with the Golden Gun,1974,1,Roger Moore,2,1,5,6,334,98.5,27.7,7,Guy Hamilton,46%,57%,0,0,0,0,11.5,4,AMC,125,December,PG,2
+The Spy Who Loved Me,1977,3,Roger Moore,3,31,116,147,533,185.4,45.1,14,Lewis Gilbert,78%,76%,2,0,3,0,7,3,Lotus,125,July,PG,1
+Moonraker,1979,2,Roger Moore,4,12,69,81,535,210.3,91.5,34,Lewis Gilbert,59%,43%,0,0,1,0,7,4,Bentley,126,June,PG,1
+For Your Eyes Only,1981,2,Roger Moore,5,18,36,54,449.4,194.9,60.2,28,John Glen,73%,64%,1,0,1,0,10.5,3,Lotus,127,June,PG,2
+Octopussy,1983,2,Roger Moore,6,15,43,58,373.8,183.7,53.9,27.5,John Glen,43%,48%,0,0,0,0,14.5,3,Mercedes-Benz,131,June,PG,1
+A View to a Kill,1985,2,Roger Moore,7,5,57,62,275.2,152.4,54.5,30,John Glen,34%,41%,1,0,0,0,14.5,4,Renault,131,May,PG,2
+The Living Daylights,1987,2,Timothy Dalton,1,13,29,42,313.5,191.2,68.8,40,John Glen,76%,65%,0,0,0,0,5.5,2,Aston Martin,130,June,PG,1
+Licence to Kill,1989,2,Timothy Dalton,2,10,13,23,250.9,156.2,56.7,36,John Glen,76%,59%,0,0,0,0,4,2,Lincoln,133,July,R,1
+GoldenEye,1995,6,Pierce Brosnan,1,47,25,72,518.5,351.9,76.9,60,Martin Campbell,82%,83%,0,0,0,0,8,3,BMW,130,November,PG-13,1
+Tomorrow Never Dies,1997,2,Pierce Brosnan,2,30,24,54,463.2,338.9,133.9,110,Roger Spottiswoode,57%,53%,1,0,0,0,22,3,BMW,119,December,PG-13,1
+The World is Not Enough,1999,2,Pierce Brosnan,3,27,43,70,439.5,361.8,158.3,135,Michael Apted,51%,50%,0,0,0,0,12.5,3,BMW,128,November,PG-13,2
+Die Another Day,2002,3,Pierce Brosnan,4,31,20,51,465.4,431.9,154.2,142,Lee Tamahori,57%,41%,1,0,0,0,5.5,3,Aston Martin,133,November,PG-13,1
+Casino Royale,2006,4,Daniel Craig,1,11,11,22,581.5,594.2,145.3,150,Martin Campbell,95%,89%,0,0,0,0,26,2,Aston Martin,144,November,PG-13,1
+Quantum of Solace,2008,2,Daniel Craig,2,16,15,31,514.2,576,181.4,200,Marc Forster,65%,58%,0,0,0,0,18,2,Aston Martin,106,November,PG-13,0
+Skyfall,2012,4,Daniel Craig,3,26,23,49,879.8,1108.6,158.1,200,Sam Mendes,93%,86%,1,1,5,2,16,2,Aston Martin,143,November,PG-13,1
